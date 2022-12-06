@@ -1,2 +1,3 @@
 # ordering
-a site for checking available restaurants and ordering food
+# an online restaurant
+# an incomplete sideproject
